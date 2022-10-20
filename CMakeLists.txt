@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(SIMPLE_SOLUTION_OF_THE_GENERAL_QUARTIC)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(SIMPLE_SOLUTION_OF_THE_GENERAL_QUARTIC main.cpp)
